@@ -1,7 +1,7 @@
 @startuml
 class Discount{
     Long id
-    int amount
+    int flatRate
     Long productId
 }
 @enduml
