@@ -1,0 +1,7 @@
+@startuml
+class Discount{
+    Long id
+    int amount
+    Long productId
+}
+@enduml
